@@ -33,7 +33,7 @@ Também conhecido(a) como: Bangtan Boys, Bangtan Sonyeondan.</p>
       <img src="https://th.bing.com/th/id/R.c38b65d2741e19fae0ef4431e8b594dc?rik=X8yxTZsMs98Zjg&pid=ImgRaw&r=0" alt="Artist 2">
       <h3>Artist 2</h3>
 
-      <p>descrição da banda 2
+     descrição da banda 2
         lackpink é um grupo feminino sul-coreano formado pela YG Entertainment em 2016.
          Ele é composto por quatro integrantes: Jisoo, Jennie, Rosé e Lisa. O grupo estreou em 8 de agosto de 2016, com o single Square One, que gerou "Whistle" e "Boombayah", seus primeiros sucessos número um na Gaon Digital Chart da Coreia do Sul e na tabela World Digital Song Sales da Billboard, respectivamente. Blackpink é o ato feminino coreano de maior sucesso na Billboard Hot 100, alcançando a ...
 Origem: Seul
